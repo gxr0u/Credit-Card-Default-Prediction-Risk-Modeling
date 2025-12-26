@@ -38,12 +38,18 @@ credit-card-fraud-detection/
 │   ├── 04_evaluation.ipynb
 │   └── 05_explainability.ipynb
 │
+├── reports/
+│   └── credit_card_fraud_detection_report.pdf
+│
 ├── src/
 │   ├── __init__.py
 │   ├── preprocessing.py
 │   ├── models.py
 │   └── evaluation.py
 │
+├── requirements.txt
+└── .gitignore
+```
 ## 🧪 Methodology
 
 The project follows a structured and modular machine learning workflow designed to handle

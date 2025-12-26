@@ -51,6 +51,19 @@ credit-card-fraud-detection/
 ├── requirements.txt
 └── .gitignore
 ```
+## 📂 Data Availability
+
+The dataset used in this project is publicly available and is not included in the repository
+to avoid licensing and size issues.
+
+- Dataset: Credit Card Transactions Dataset (European cardholders)
+- Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+To reproduce the results:
+1. Download the dataset from the source
+2. Place `creditcard.csv` in `data/raw/`
+
+
 ## 🧪 Methodology
 
 The project follows a structured and modular machine learning workflow designed to handle

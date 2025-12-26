@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection using Machine Learning
+Machine learning–based credit card risk and fraud detection using imbalanced learning, explainability, and cost-aware evaluation.
 
 ## 📌 Project Overview
 
